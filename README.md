@@ -1,2 +1,2 @@
 # 42-barcelona
-Exercises done during the piscine @42 Barcelona
+Exercises completed during the piscine @42 Barcelona
