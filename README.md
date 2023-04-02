@@ -1,2 +1,2 @@
 # 42-barcelona
-Exercises completed during the piscine @42 Barcelona
+Exercises in C –and a little Shell– completed during the piscine @ 42 Barcelona.
